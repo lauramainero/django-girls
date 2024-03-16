@@ -35,3 +35,7 @@ print(conta.get_saldo())
 conta.set_saldo(2000)
 print(conta.get_saldo())
 ```
+
+## TUTORIAL
+
+[Site com o tutorial do blog](https://tutorial.djangogirls.org/en)
